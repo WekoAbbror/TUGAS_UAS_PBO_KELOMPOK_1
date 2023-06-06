@@ -4,6 +4,7 @@ Anggota :  Weko Abbror (G1A022025), Citra Azzahra Al-Fatihah (G1A022057), Ridho 
 Source code:
 
 import random  # Modul random digunakan untuk mengacak karakter dalam pembuatan password
+
 import string  # Modul string digunakan untuk mendefinisikan karakter yang diperlukan dalam password
 
 def Pembuat_password(length):
