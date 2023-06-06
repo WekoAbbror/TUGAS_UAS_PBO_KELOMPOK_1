@@ -9,6 +9,7 @@ import string  # Modul string digunakan untuk mendefinisikan karakter yang diper
 
 def Pembuat_password(length):
     # Mendefinisikan karakter yang diperlukan dalam password
+    
     karakter = string.ascii_letters + string.digits
     
     # Memastikan setidaknya ada satu huruf besar, satu huruf kecil, dan satu angka dalam password
